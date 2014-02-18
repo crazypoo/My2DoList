@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1CDE0E71-46D7-4F2E-AFCF-CF222F958A62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>myTodo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F764E76B-D006-45C5-9D79-63F6FCBCC7CC</key>
+		<string>https://github.com/affectsoftware/myTodo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>myTodo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F764E76B-D006-45C5-9D79-63F6FCBCC7CC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/affectsoftware/myTodo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F764E76B-D006-45C5-9D79-63F6FCBCC7CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F764E76B-D006-45C5-9D79-63F6FCBCC7CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myTodo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
